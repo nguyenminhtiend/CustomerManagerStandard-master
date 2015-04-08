@@ -1,0 +1,5 @@
+D:\Working\Self Study\CustomerManagerStandard-master\EmployeeManager\bin\EmployeeManager.dll
+D:\Working\Self Study\CustomerManagerStandard-master\EmployeeManager\bin\EmployeeManager.pdb
+D:\Working\Self Study\CustomerManagerStandard-master\EmployeeManager\obj\Debug\EmployeeManager.csprojResolveAssemblyReference.cache
+D:\Working\Self Study\CustomerManagerStandard-master\EmployeeManager\obj\Debug\EmployeeManager.dll
+D:\Working\Self Study\CustomerManagerStandard-master\EmployeeManager\obj\Debug\EmployeeManager.pdb

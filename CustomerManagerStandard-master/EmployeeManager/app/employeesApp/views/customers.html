@@ -1,0 +1,25 @@
+﻿<table class="table">
+    <tr>
+        <th>First Name
+        </th>
+        <th>Last Name
+        </th>
+        <th>Email
+        </th>
+        <th>Phone
+        </th>
+        <th></th>
+    </tr>
+
+    <tbody>
+        <tr ng-repeat="employee in employees">
+            <td>{{employee.FirstName}}</td>
+            <td>{{employee.LastName}}</td>
+            <td>{{employee.Email}}</td>
+            <td>{{employee.Phone}}</td>
+            <td>
+                <input type="button" id="Delete" value="Delete" data-ng-click="delete(stud)" />
+            </td>
+        </tr>
+    </tbody>
+</table>

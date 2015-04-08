@@ -1,0 +1,15 @@
+D:\Working\Self Study\CustomerManagerStandard-master\CustomerManager.E2ETests\bin\Debug\phantomjs.exe
+D:\Working\Self Study\CustomerManagerStandard-master\CustomerManager.E2ETests\bin\Debug\chromedriver.exe
+D:\Working\Self Study\CustomerManagerStandard-master\CustomerManager.E2ETests\bin\Debug\phantomjs-license.txt
+D:\Working\Self Study\CustomerManagerStandard-master\CustomerManager.E2ETests\bin\Debug\CustomerManager.E2ETests.dll
+D:\Working\Self Study\CustomerManagerStandard-master\CustomerManager.E2ETests\bin\Debug\CustomerManager.E2ETests.pdb
+D:\Working\Self Study\CustomerManagerStandard-master\CustomerManager.E2ETests\bin\Debug\nunit.framework.dll
+D:\Working\Self Study\CustomerManagerStandard-master\CustomerManager.E2ETests\bin\Debug\Protractor.dll
+D:\Working\Self Study\CustomerManagerStandard-master\CustomerManager.E2ETests\bin\Debug\WebDriver.dll
+D:\Working\Self Study\CustomerManagerStandard-master\CustomerManager.E2ETests\bin\Debug\nunit.framework.xml
+D:\Working\Self Study\CustomerManagerStandard-master\CustomerManager.E2ETests\bin\Debug\Protractor.pdb
+D:\Working\Self Study\CustomerManagerStandard-master\CustomerManager.E2ETests\bin\Debug\Protractor.xml
+D:\Working\Self Study\CustomerManagerStandard-master\CustomerManager.E2ETests\bin\Debug\WebDriver.xml
+D:\Working\Self Study\CustomerManagerStandard-master\CustomerManager.E2ETests\obj\Debug\CustomerManager.E2ETests.csprojResolveAssemblyReference.cache
+D:\Working\Self Study\CustomerManagerStandard-master\CustomerManager.E2ETests\obj\Debug\CustomerManager.E2ETests.dll
+D:\Working\Self Study\CustomerManagerStandard-master\CustomerManager.E2ETests\obj\Debug\CustomerManager.E2ETests.pdb
