@@ -16,7 +16,7 @@ namespace EmloyeeManagerService.Controllers
             if (listEmployees == null)
             {
                 listEmployees = new List<Employee>();
-                for (int i = 0; i < 50; i++)
+                for (int i = 0; i < 10; i++)
                 {
                     listEmployees.Add(new Employee
                     {
@@ -24,7 +24,9 @@ namespace EmloyeeManagerService.Controllers
                         FirstName = "First Name " + i.ToString(),
                         LastName = "Last Name " + i.ToString(),
                         Email = "abc@gmail.com",
-                        Phone = "0123456789"
+                        Phone = "0123456789",
+                        Birthday = DateTime.Now,
+                        Department = "Software"
                     });
                 }    
             }

@@ -31,3 +31,37 @@ D:\Working\Self Study\CustomerManagerStandard-master\EmloyeeManagerService\bin\S
 D:\Working\Self Study\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Net.Http.Formatting.xml
 D:\Working\Self Study\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.Http.xml
 D:\Working\Self Study\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.Http.WebHost.xml
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\EmloyeeManagerService.dll.config
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\EmloyeeManagerService.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\EmloyeeManagerService.pdb
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\Antlr3.Runtime.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\EntityFramework.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\Microsoft.Web.Infrastructure.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\Newtonsoft.Json.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Net.Http.Formatting.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.Cors.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.Helpers.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.Http.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.Http.WebHost.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.Mvc.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.Optimization.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.Providers.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.Razor.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.WebPages.Deployment.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.WebPages.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.WebPages.Razor.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\WebGrease.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\Newtonsoft.Json.xml
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Net.Http.Formatting.xml
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.Http.xml
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.Http.WebHost.xml
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\EntityFramework.xml
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.Helpers.xml
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.Mvc.xml
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.Razor.xml
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.WebPages.xml
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.WebPages.Deployment.xml
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\bin\System.Web.WebPages.Razor.xml
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\obj\Debug\EmloyeeManagerService.csprojResolveAssemblyReference.cache
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\obj\Debug\EmloyeeManagerService.dll
+D:\Working\NET\Projects\Angular\CustomerManagerStandard-master\CustomerManagerStandard-master\EmloyeeManagerService\obj\Debug\EmloyeeManagerService.pdb
